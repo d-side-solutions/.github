@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get in# Welcome to d-side solutions
+# Welcome to d-side solutions
 
 **Your digital transformation partner in Switzerland.**
 
@@ -63,8 +56,3 @@ We protect your business with comprehensive security audits, continuous monitori
 <p align="center">
   <em>d-side solutions Sàrl — Bulle, Switzerland 🇨🇭</em>
 </p>
-volved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
